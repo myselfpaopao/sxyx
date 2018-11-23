@@ -55,7 +55,7 @@
                 configNav : [
                     {
                     name: "一张图",
-                    path: '/OneMap',
+                    path: '/onemap',
                     },
                     {
                     name    : "河长事务",
